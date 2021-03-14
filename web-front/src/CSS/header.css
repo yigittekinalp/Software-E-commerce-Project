@@ -1,0 +1,48 @@
+.header-text {
+  margin-left: 7px;
+  margin-right: 7px;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+
+.header-icon {
+  color: #000000;
+  widows: 42px;
+  height: 42px;
+  line-height: 42pxsc;
+  font-size: 22px;
+  display: inline-block;
+  text-align: center;
+}
+
+.text-wrap {
+  line-height: 1.2;
+  padding: 10px;
+  color: black;
+}
+
+
+#colorbar{
+  margin-top: 89px;
+  height: 12px;
+  background: linear-gradient(110deg, #ff6f00 60%, #ffa500 60%);
+}
+
+.form-control-underlined {
+  border-width: 0;
+  border-bottom-width: 1px;
+  border-radius: 0;
+  padding-left: 0;
+  padding-top: 15px;
+}
+
+.logo {
+  color: #000000;
+  widows: 42px;
+  height: 42px;
+  line-height: 42px;
+  font-size: 22px;
+  display: inline-block;
+  text-align: center;
+}

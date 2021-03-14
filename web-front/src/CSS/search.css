@@ -1,0 +1,24 @@
+.search-box {
+  background-color: #ffffff;
+  padding: 15px 20px;
+}
+
+.search-box select {
+  font-size: 12px;
+  height: 23px;
+}
+
+.uniqueCard {
+  margin-left: 100px;
+}
+
+.marginleft {
+  left: 35%;
+  margin-right: auto;
+}
+
+.marginright {
+  left: 120%;
+  margin-left: auto;
+}
+

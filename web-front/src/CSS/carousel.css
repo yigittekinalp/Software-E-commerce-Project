@@ -1,0 +1,16 @@
+.marginleft {
+  left: 35%;
+  margin-right: auto;
+}
+
+.marginright {
+  left: 120%;
+  margin-left: auto;
+}
+
+#first {
+  /* box-shadow: 5px 5px #f1efef;
+  height: 430px;
+  width: 1950px;
+  background-color: blanchedalmond; */
+}
